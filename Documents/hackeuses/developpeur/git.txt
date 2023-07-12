@@ -1,0 +1,11 @@
+git config --list --show-origin   dir
+git config user.name			to check
+git config user.email
+
+git config --global user.name "name"
+git config --global user.email user.email@gmail
+
+changes on a file ---> staging mode ----->  commit mode (new version) every new commit we have a new snaps
+
+git add filename (will put filename in stage mode)
+git commit -m "feature 123 reason for update"
